@@ -1,5 +1,5 @@
-# Frontend - Missão de Aprendizado: Componentes Dinêmicos e Listas em React
-Projeto da Missão de Aprendizado da profissão Dev Frontend: Componentes Dinêmicos e Listas em React
+# Frontend - Missão de Aprendizado: Deploy de Aplicações em React
+Projeto da Missão de Aprendizado da profissão Dev Frontend: Deploy de Aplicações em React
 
 1. **Configuração do Ambiente de Build com Vite:**
   - Configurar e executar um build de produção usando Vite, explorando as configurações de otimização e preparação para deploy.
